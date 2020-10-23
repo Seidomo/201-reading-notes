@@ -1,6 +1,6 @@
 
 
-    # Code 201 Reading Notes
+ # Code 201 Reading Notes
 
 
 - [Home](https://seidomo.github.io/201-reading-notes/home) 
