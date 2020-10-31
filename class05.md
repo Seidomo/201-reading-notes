@@ -38,8 +38,7 @@ Because some browsers will not recognize RGBA colors, you can offer a fallback s
 ### Indenting Text
 
 The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.
-It can take a negative value, which means it can be used to push text off the browser window. You can see this technique used in this example, where the <h1> element uses a background image to represent the heading. The text has been moved far to the left, off the screen. (Background images are covered on pages 413-418.)
-We still want the heading text to be on the page (for search engines and those who cannot see the image), but we cannot have it displayed on top of the logo or it will be unreadable. By pushing it 9,999 pixels to the left, it is way out of sight but still in the HTML code.
+
 
 ### DROP SHADOW
 
