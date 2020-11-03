@@ -17,8 +17,8 @@ schedules, and sports results.
 
   ## Basic Table Structure
 
- ### <table>
-- The <table> element is used
+ ### table
+- The table element is used
  to create a table. The contents
  of the table are written out row
  by row.
@@ -86,19 +86,19 @@ allow you to style these sections
 in a different manner than the
 rest of the table (as you will see
 when you learn about CSS).
-<thead>
+thead
 The headings of the table should
-sit inside the <thead> element.
-<tbody>
+sit inside the thead> element.
+tbody>
 The body should sit inside the
-<tbody> element.
-<tfoot>
+tbody> element.
+tfoot>
 The footer belongs inside the
 
-<tfoot> element.
+tfoot> element.
 
-By default, browsers rarely treat
-the content of these elements
+- By default, browsers rarely treat
+ the content of these elements
 any differently than other
 elements however designers
 often use CSS styles to change 
