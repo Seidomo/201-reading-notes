@@ -5,10 +5,10 @@
 ## FORMS AND EVENTS
 
 ### Form Controls
-- ADDING TEXT:
-- Making Choices:
-- Submitting Forms:
-- Uploading Files:
+- ADDING TEXT
+- Making Choices
+- Submitting Forms
+- Uploading Files
 
 ### How Forms Work
 
@@ -21,14 +21,14 @@ corresponds with which form element.
 
 ### Form Structure
 
-- <form>
+- form
 Form controls live inside a
-<form> element. This element
+form> element. This element
 should always carry the action
 attribute and will usually have a
 method and id attribute too.
 - Action
-Every <form> element requires
+Every form> element requires
 an action attribute. Its value
 is the URL for the page on the
 server that will receive the
@@ -74,7 +74,7 @@ that require values).
 
 ### Password Input
 
-<input>
+- input
 type="password"
 When the type attribute has
 a value of password it creates
@@ -86,7 +86,7 @@ that if someone is looking over
 the user's shoulder, they cannot
 see sensitive data such as
 passwords.
-name
+- name
 The name attribute indicates
 the name of the password input,
 which is sent to the server with
@@ -98,16 +98,16 @@ the single-line text input.
 
 ### Text Area
 
-- <textarea>
-The <textarea> element
+- textarea
+The textarea element
 is used to create a mutli-line
 text input. Unlike other input
 elements this is not an empty
 element. It should therefore have
 an opening and a closing tag.
 Any text that appears between
-the opening <textarea> and
-closing </textarea> tags will
+the opening textarea and
+closing textarea tags will
 appear in the text box when the
 page loads.
 If the user does not delete any
@@ -121,30 +121,30 @@ in the text area.)
 
 ### Drop Down List Box
 
-- <select>
+- select
 A drop down list box (also
 known as a select box) allows
 users to select one option from a
 drop down list.
-The <select> element is used
+The select element is used
 to create a drop down list box. It
-contains two or more <option>
+contains two or more option
 elements.
 - Name
 The name attribute indicates the
 name of the form control being
 sent to the server, along with the
 value the user selected.
-- <option>
-The <option> element is used
+- option
+The option element is used
 to specify the options that the
 user can select from. The words
-between the opening <option>
-and closing </option> tags will
+between the opening option
+and closing option tags will
 be shown to the user in the drop
 down box.
 - Value
-The <option> element uses the
+The option element uses the
 value attribute to indicate the
 value that is sent to the server
 along with the name of the
