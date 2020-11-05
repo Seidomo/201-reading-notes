@@ -46,9 +46,9 @@ the end of the URL specified in
 the action attribute. The get
 method is ideal for
 
-● short forms such as search boxes
+ short forms such as search boxes
 
-● when you are just retrieving data from the web server
+ when you are just retrieving data from the web server
 not sending information that
 should be added to or deleted
 from a database  With the post method the
@@ -57,11 +57,11 @@ known as HTTP headers. As a
 rule of thumb you should use the
 post method if your form:
 
-● allows users to upload a file
+ allows users to upload a file
 
-● contains sensitive data e.g. passwords
+ contains sensitive data e.g. passwords
 
-● adds information to, or deletes information from, a 
+ adds information to, or deletes information from, a 
 database If the method attribute is not
 used, the form data will be sent
 using the get method.
