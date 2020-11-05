@@ -27,13 +27,15 @@ form> element. This element
 should always carry the action
 attribute and will usually have a
 method and id attribute too.
+
 - Action
-Every form> element requires
+Every form element requires
 an action attribute. Its value
 is the URL for the page on the
 server that will receive the
 information in the form when it
 is submitted.
+
 - Method
 Forms can be sent using one of
 two methods: get or post.
@@ -41,30 +43,32 @@ With the get method, the values
 from the form are added to
 the end of the URL specified in
 the action attribute. The get
-method is ideal for:
-● short forms (such as search
-boxes)
+method is ideal for
+
+● short forms such as search
+boxes
+
 ● when you are just retrieving
 data from the web server
-(not sending information that
+not sending information that
 should be added to or deleted
-from a database)With the post method the
+from a database  With the post method the
 values are sent in what are
-known as HTTP headers. As a
+known as HTT headers. As a
 rule of thumb you should use the
 post method if your form:
 ● allows users to upload a file
 ● is very long
 ● contains sensitive data
-(e.g. passwords)
+e.g. passwords
 ● adds information to, or
 deletes information from, a 
 database If the method attribute is not
 used, the form data will be sent
 using the get method.
 - Id
-We look at the id attribute on
-page 183, but the value is used to
+We look at the id attribute 
+ but the value is used to
 identify the form distinctly from
 other elements on the page (and
 is often used by scripts — such
@@ -75,7 +79,7 @@ that require values).
 ### Password Input
 
 - input
-type="password"
+type = password
 When the type attribute has
 a value of password it creates
 a text box that acts just like a
@@ -114,16 +118,14 @@ If the user does not delete any
 text between these tags, this
 message will get sent to the
 server along with whatever the
-user has typed. (Some sites
+user has typed. Some sites
 use JavaScript to clear this
 information when the user clicks
-in the text area.)
-
-### Drop Down List Box
+in the text area.
 
 - select
-A drop down list box (also
-known as a select box) allows
+A drop down list box also
+known as a select box allows
 users to select one option from a
 drop down list.
 The select element is used
