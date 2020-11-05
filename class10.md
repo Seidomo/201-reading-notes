@@ -137,15 +137,4 @@ validation tools that can help you
 try to find errors in your code: 
 
 
-
-
-
-
-
-
-
-
-
-
-
 - [Previous](https://seidomo.github.io/201-reading-notes/class09) 
