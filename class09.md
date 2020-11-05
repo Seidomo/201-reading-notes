@@ -37,6 +37,7 @@ information in the form when it
 is submitted.
 
 - Method
+
 Forms can be sent using one of
 two methods: get or post.
 With the get method, the values
@@ -45,27 +46,26 @@ the end of the URL specified in
 the action attribute. The get
 method is ideal for
 
-● short forms such as search
-boxes
+● short forms such as search boxes
 
-● when you are just retrieving
-data from the web server
+● when you are just retrieving data from the web server
 not sending information that
 should be added to or deleted
 from a database  With the post method the
 values are sent in what are
-known as HTT headers. As a
+known as HTTP headers. As a
 rule of thumb you should use the
 post method if your form:
+
 ● allows users to upload a file
-● is very long
-● contains sensitive data
-e.g. passwords
-● adds information to, or
-deletes information from, a 
+
+● contains sensitive data e.g. passwords
+
+● adds information to, or deletes information from, a 
 database If the method attribute is not
 used, the form data will be sent
 using the get method.
+
 - Id
 We look at the id attribute 
  but the value is used to
@@ -122,6 +122,8 @@ user has typed. Some sites
 use JavaScript to clear this
 information when the user clicks
 in the text area.
+
+### Drop Down List Box
 
 - select
 A drop down list box also
