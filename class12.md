@@ -6,7 +6,7 @@
 
 A great way to get started with charts is with 'Chart.js', a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
-### The <canvas> element
+### The Canvas Element
 
       canvas id="tutorial" width="150" height="150"></canvas
 
