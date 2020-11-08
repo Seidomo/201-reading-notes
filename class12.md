@@ -2,11 +2,11 @@
 
 ## CHARTS
 
-- Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
+ Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
 
 A great way to get started with charts is with 'Chart.js', a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
-### The Canvas Element
+### The (Canvas) Element
 
       canvas id="tutorial" width="150" height="150"></canvas
 
@@ -39,6 +39,12 @@ In addition to the three methods we saw in Drawing rectangles, which draw rectan
 ### Making Combinations
 
 So far, each example on this page has used only one type of path function per shape. However, there's no limitation to the number or types of paths you can use to create a shape. So in this final example, let's combine all of the path functions to make a set of very famous game characters.
+
+### Linejoin
+
+The lineJoin property determines how two connecting segments (of lines, arcs or curves) with non-zero lengths in a shape are joined together (degenerate segments with zero lengths, whose specified endpoints and control points are exactly at the same position, are skipped).
+
+There are three possible values for this property: round, bevel and miter. By default this property is set to miter. Note that the lineJoin setting has no effect if the two connected segments have the same direction, because no joining area will be added in this case.
 
 
 - [Home](https://seidomo.github.io/201-reading-notes/home) 
