@@ -169,4 +169,4 @@ navigation exactly the same.
 
 
 
-- [Previous](https://seidomo.github.io/201-reading-notes/class09) 
+- [Previous](https://seidomo.github.io/201-reading-notes/class10) 

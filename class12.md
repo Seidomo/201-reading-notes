@@ -1,5 +1,8 @@
 # CLASS 12 READING NOTES
 
+
+- [Home](https://seidomo.github.io/201-reading-notes/home) 
+
 ## CHARTS
 
  Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
@@ -47,4 +50,5 @@ The lineJoin property determines how two connecting segments (of lines, arcs or 
 There are three possible values for this property: round, bevel and miter. By default this property is set to miter. Note that the lineJoin setting has no effect if the two connected segments have the same direction, because no joining area will be added in this case.
 
 
-- [Home](https://seidomo.github.io/201-reading-notes/home) 
+
+- [Previous](https://seidomo.github.io/201-reading-notes/class11) 
