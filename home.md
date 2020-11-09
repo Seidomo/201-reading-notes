@@ -32,6 +32,8 @@
 
 - [class 13](https://seidomo.github.io/201-reading-notes/class13)
 
-- [class 14](https://seidomo.github.io/201-reading-notes/class14)
+- [class 14A](https://seidomo.github.io/201-reading-notes/class14a)
+
+- [class 14B](https://seidomo.github.io/201-reading-notes/class14b)
 
 - [class 15](https://seidomo.github.io/201-reading-notes/class15)
