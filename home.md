@@ -3,8 +3,7 @@
  # Code 201 Reading Notes
 
 
-- [Home](https://seidomo.github.io/201-reading-notes/home) 
-
+- [**HOME**](https://seidomo.github.io/reading_notes/home) 
 
 - [class 01](https://seidomo.github.io/201-reading-notes/class01) 
 
